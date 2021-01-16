@@ -12,6 +12,5 @@
 4. Delete a Node
 5. Print in Reverse
 6. Reverse a linked list
-
 7. Cycle Detection
-
+8. Merge two sorted linked lists
