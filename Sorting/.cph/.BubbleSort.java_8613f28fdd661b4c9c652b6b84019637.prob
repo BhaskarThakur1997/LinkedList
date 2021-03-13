@@ -1,0 +1,1 @@
+{"name":"Local: BubbleSort","url":"f:\\Java Programs\\Sorting\\BubbleSort.java","tests":[{"id":1614263856430,"input":"9\n10 4 43 5 57 91 45 9 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Java Programs\\Sorting\\BubbleSort.java","group":"local","local":true}
